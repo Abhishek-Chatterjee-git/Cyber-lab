@@ -89,7 +89,7 @@ commit
 save
 ```
 
-####Vyos1
+#### Vyos1
 ```
 configure
 
@@ -111,7 +111,7 @@ set nat source rule 10 translation address masquerade
 commit
 save
 ```
-###Vyos2
+### Vyos2
 ```
 configure
 
