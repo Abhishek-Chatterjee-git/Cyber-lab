@@ -7,6 +7,8 @@ The lab includes network segmentation, firewall configuration, and traffic contr
 ##  Network Topology
 
 ![Network Topology](topology.png)
+
+![Network Interface Bridge](proxmoxbridge.png)
  
 ## ⚙ VyOS Configuration
 This section will document commands used for setting up vyos routers :
