@@ -144,7 +144,7 @@ save
 ```
 configure
 
-set interfaces ethernet eth0 address dhcp
+set interfaces ethernet eth0 address 172.18.49.x/24
 set interfaces ethernet eth1 address 10.10.3.1/24
 
 set service dhcp-server shared-network-name lan subnet 10.10.3.0/24 subnet-id 1
