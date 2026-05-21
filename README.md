@@ -401,9 +401,9 @@ Use this for:
 * Routing fixed
 * Connectivity restored
 * Traffic contained within lab
+* Snort and Wazuh monitoring Implemented(NIDS/NIPS and HIDS)
 
 System is now ready for:
 
 * SOC pipeline integration
-* Snort/Wazuh monitoring
 * Attack simulation
